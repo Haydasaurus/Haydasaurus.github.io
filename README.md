@@ -1,2 +1,2 @@
 # Website
-My website testing gorund for portfilio project ideas and my resume
+My website testing ground for portfilio project ideas and my resume
